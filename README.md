@@ -4,16 +4,14 @@
 
 > Trilha Explorer
 
-Projeto construído no evento Next Level Week da Rocketseat.
+This project was built during the Next Level Week at Rocketseat.
 
-[Clique aqui para acessar.](https://jessicaranft.github.io/nlw-esports-explorer)
+It consists of a simple bio page with info on my favorite games and streamers.
 
-## Tecnologias
+- [Click here to view](https://jessicaranft.github.io/nlw-esports-explorer)
 
-- HTML
-- CSS
-- Git e Github
+## Features
 
-## Contato
-
-jessica.ranft@gmail.com
+`HTML`
+`CSS`
+`Git & Github`
